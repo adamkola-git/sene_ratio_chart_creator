@@ -1,0 +1,28 @@
+# Systemowe / macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Pliki środowiskowe
+.python-version
+
+# Pliki danych (CSV, Excel)
+*.csv
+*.xlsx
+
+# Tymczasowe
+*.swp
+*.tmp
