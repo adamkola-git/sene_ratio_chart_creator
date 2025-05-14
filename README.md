@@ -1,6 +1,12 @@
 # 📊 SENE Ratio Chart Creator
 
+This notebook is designed to automate the generation of energy ratio charts for engineering data analysis.
+
 This project contains a Python notebook that automatically generates SENE ratio plots based on input CSV data.
+
+## 🧑‍💻 Author
+
+- Adam Kołakowski / May 2025
 
 ## 🔧 Requirements
 
@@ -40,7 +46,3 @@ You can modify the `INCLUDE_SED` flag to include or exclude SED-related columns 
 
 - The `plots/` folder will be created automatically if it doesn't exist.
 - Output filenames correspond to component names.
-
-## 🧑‍💻 Author
-
-This notebook is designed to automate the generation of energy ratio charts for engineering data analysis.
